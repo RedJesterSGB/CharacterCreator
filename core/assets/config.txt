@@ -1,0 +1,87 @@
+Template
+Feet
+Pants,Bottom
+Top,Dress
+Tabard
+Accessory
+Gloves,Hands
+Decal,Scar
+FacialHair
+Hair
+Head
+Main,TemplarSword
+Off,Shield
+END_KEYS
+Bust_2
+Bust_3
+Bust_4
+Bust_5
+Bust_6
+Bust_7
+Bust_8
+collapse
+collapse_diag
+dead
+dead_diag
+idle1
+idle1_diag
+idle2
+idle2_diag
+kneel
+kneel_diag
+ko
+ko_diag
+MVsv
+MVsv_alt_attack1
+MVsv_alt_attack2
+MVsv_alt_critical1
+MVsv_alt_critical2
+MVsv_alt_critical3
+MVsv_alt_critical4
+MVsv_alt_critical5
+MVsv_alt_critical6
+MVsv_alt_dead1
+MVsv_alt_dead2
+MVsv_alt_dead3
+MVsv_alt_magic
+MVsv_alt_martialartcritical
+MVsv_alt_martialartpunch
+MVsv_alt_martialartstance
+MVsv_alt_stance1
+MVsv_alt_stance2
+MVsv_alt_stance3
+MVsv_alt_stance4
+MVsv_alt_stance5
+MVsv_alt_stance6
+MVsv_alt_victory1
+MVsv_alt_victory2
+MVsv_alt_victory3
+MVsv_alt_victory4
+MVsv_alt_victory5
+MVsv_alt_victory6
+MVsv_alt_victory7
+MVsv_alt_victory8
+running
+running_diag
+sitting1
+sitting1_diag
+sitting2
+sitting2_diag
+sleeping
+sleeping_diag
+walking
+walking_diag
+MVsv_alt_shooting
+MVsv_alt_shootingstance
+END_SPRITESHEETS
+AnimationSpeed:0.1
+Medieval T&C/Medieval_T&C_Humans/Medieval_T&C_Females
+Medieval T&C/Medieval_T&C_Humans/Medieval_T&C_Males
+Medieval Interiors/Medieval_Interiors_Humans/Medieval_Interiors_Females
+Medieval Interiors/Medieval_Interiors_Humans/Medieval_Interiors_Males
+Medieval Warfare/Medieval_Warfare_Humans/Medieval_Warfare_Female
+Medieval Warfare/Medieval_Warfare_Humans/Medieval_Warfare_Male
+Medieval Knight Templar/Medieval_KT_Humans/Medieval_KT_Females
+Medieval Knight Templar/Medieval_KT_Humans/Medieval_KT_Males
+Medieval Plague Bringers/Medieval_PB_Humans/Medieval_PB_Females
+Medieval Plague Bringers/Medieval_PB_Humans/Medieval_PB_Males
